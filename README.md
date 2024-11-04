@@ -12,3 +12,8 @@
 [![Thiago GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thiago-rocha-aquino&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thiago-rocha-aquino/github-readme-stats#gh-dark-mode-only)
 ![Thiago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rocha-aquino&layout=compact)
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-rocha-aquino/thiago-rocha-aquino/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago-rocha-aquino/thiago-rocha-aquino/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-rocha-aquino/thiago-rocha-aquino/output/github-contribution-grid-snake.svg">
+</picture>
