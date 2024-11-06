@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago Rocha ☃ ☃ ☃ ☃
 Analise e Desenvolvimento de Sistemas ✔ <br>
-ciência da computação ⌛
+Ciência da Computação ⌛
 
 [![icone](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![icone](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
