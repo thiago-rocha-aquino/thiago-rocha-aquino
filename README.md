@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Rocha de Aquino   ☃ ☃ ☃ ☃
 Tecnologo em Analise e Desenvolvimento de Sistemas ✔ <br>
 Bacharelado em Ciência da Computação ⌛<hr>
-☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃
+
 [![icone](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![icone](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![icone](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
@@ -19,3 +19,4 @@ Bacharelado em Ciência da Computação ⌛<hr>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago-rocha-aquino/thiago-rocha-aquino/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-rocha-aquino/thiago-rocha-aquino/output/github-contribution-grid-snake.svg">
 </picture>
+☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃☃
