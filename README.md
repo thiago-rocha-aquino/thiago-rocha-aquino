@@ -1,4 +1,4 @@
-☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ 
+☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ ☃ 
 ### Olá! Eu sou o Thiago Rocha de Aquino   
 Tecnologo em Analise e Desenvolvimento de Sistemas ✔ <br>
 Bacharelado em Ciência da Computação ⌛<hr>
